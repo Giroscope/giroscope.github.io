@@ -1,0 +1,501 @@
+* {box-sizing: border-box;
+  font-family: "Sofia_Sans";
+}
+
+@font-face {
+ font-family: "Sofia_Sans";
+ src: url("../fonts/Sofia_Sans/static/SofiaSans-Medium.ttf");
+      }
+
+@font-face {
+ font-family: "Sofia_Sans_Bold";
+ src: url("../fonts/Sofia_Sans/static/SofiaSans-Bold.ttf");
+      }
+
+h2, h1, h3 {
+  font-family: "Sofia_Sans_Bold";
+}
+
+html, body {
+  width:100%;
+  height:100%;
+  overflow: hidden;
+  overscroll-behavior-x: none;
+}
+
+b {
+  color: #B1C8A1;
+}
+
+#secondpart b {
+  color: #ffffe7;
+}
+
+.map {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position:absolute;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+.inner {
+  position:relative;
+  width:5100px;
+  height:5000px;
+  background:url(../images/Ap.png) no-repeat center center / 100% auto;
+}
+
+.paris {
+  position: relative;
+  width:5000px;
+  height:5000px;
+  background:url(../images/Paris-intra-muros.png) no-repeat center center / 100% auto;
+}
+
+.arrondissement {
+  position: relative;
+  width:5000px;
+  height:5000px;
+  background:url(../images/Arrondissements.png) no-repeat center center / 100% auto;
+}
+
+.herbe {
+  position: relative;
+  width:5000px;
+  height:5000px;
+  background:url(../images/Espacevert5.png) no-repeat center center / 100% auto;
+}
+
+.seine {
+  position: relative;
+  width:5000px;
+  height:5000px;
+  background:url(../images/Water.png) no-repeat center center / 100% auto;
+}
+
+#tour-eiffel {
+  position: relative;
+  top: 2185px;
+  left: 1430px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/tour-eiffel.png) no-repeat center center / 100% auto;
+}
+
+#Arc-de-triomphe {
+  position: relative;
+  top: 1650px;
+  left: 1430px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/Arc-de-triomphe.png) no-repeat center center / 80% auto;
+}
+
+#cathédrale-notre-dame {
+  position: relative;
+  top: 2165px;
+  left: 2545px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/cathedrale-notre-dame.png) no-repeat center center / 90% auto;
+}
+
+#louvre {
+  position: relative;
+  top: 1725px;
+  left: 2230px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/louvre.png) no-repeat center center / 110% auto;
+}
+
+#place-de-la-concorde {
+  position: relative;
+  top: 1455px;
+  left: 1970px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/place-de-la-concorde.png) no-repeat center center / 100% auto;
+}
+
+#sainte-chapelle {
+  position: relative;
+  top: 1971px;
+  left: 2426px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/sainte-chapelle.png) no-repeat center center / 80% auto;
+}
+
+#palais-garnier {
+  position: relative;
+  top: 1179px;
+  left: 2148px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/palais-garnier.png) no-repeat center center / 100% auto;
+}
+
+#pantheon {
+  position: relative;
+  top: 1861px;
+  left: 2511px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/pantheon.png) no-repeat center center / 100% auto;
+} 
+
+#hotel-des-invalides {
+  position: relative;
+  top: 1487px;
+  left: 1789px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/hotel-des-invalides.png) no-repeat center center / 95% auto;
+}
+
+#Sacré-coeur {
+  position: relative;
+  top: 477px;
+  left: 2245px;
+  width: 100px;
+  height: 100px;
+  background:url(../images/bat/Sacre-coeur.png) no-repeat center center / 95% auto;
+}
+
+#intro {
+  top: 420px;
+  left: 2205px;
+  width: 786px;
+}
+
+#tendance {
+  position: absolute;
+  top: 59px;
+  left: calc(100% + 125px);
+  width: 380px;
+  height: auto;
+}
+
+#caption-tendance {
+  position: relative;
+  top: -182px;
+  left: 932px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#firstpart {
+  top: 1650px;
+  left: 3925px;
+  width: 300px;
+}
+
+#distribution {
+  position: absolute;
+  top: 59px;
+  left: calc(100%);
+  width: 380px;
+  height: auto;
+}
+
+#caption-distribution {
+  position: relative;
+  top: -443px;
+  left: 340px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#secondpart {
+  top: 2805px;
+  left: 4027px;
+  width: 641px;
+}
+
+#territoire {
+  position: absolute;
+  top: 260px;
+  left: calc(100%);
+  width: 300px;
+  height: auto;
+}
+
+#caption-territoire {
+  position: relative;
+  top: -40px;
+  left: 662px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#mobilier {
+  position: absolute;
+  top: 72px;
+  left: calc(100% + 20px);
+  width: 257px;
+  height: auto;
+}
+
+#caption-mobilier {
+  position: relative;
+  top: -310px;
+  left: 660px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#passerelle {
+  top: 3484px;
+  left: 3090px;
+  width: 500px;
+}
+
+#thirdpart {
+  top: 3442px;
+  left: 1680px;
+  width: 500px;
+}
+
+#treize {
+  position: absolute;
+  top: calc(100%);
+  left: 0px;
+  width: 200px;
+  height: auto;
+}
+
+#caption {
+  position: relative;
+  top: 169px;
+  left: 0;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-style: italic;
+  font-size: 12px;
+  line-height: normal;
+}
+
+#caption-loc {
+  position: relative;
+  top: 175px;
+  left: 0;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  line-height: normal;
+
+}
+
+#fourthpart {
+  top: 3215px;
+  left: 929px;
+  width:500px;
+}
+
+#fenetre {
+  position: absolute;
+  top: calc(100% + -36px);
+  left: 0px;
+  width: 200px;
+  height: auto;
+}
+
+#caption-fenetre {
+  position: relative;
+  top: 142px;
+  left: 218px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#frise {
+  position: absolute;
+  top: calc(100%);
+  left: 200px;
+  width: 321px;
+  height: auto;
+}
+
+#caption-frise {
+  position: relative;
+  top: 78px;
+  left: 218px;
+  margin-bottom: 0px;
+  margin-top: -4px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: normal;
+}
+
+#conclusion {
+  top: 2047px;
+  left: 176px;
+  width: 520px;
+}
+
+.def {
+  color: #000E41;
+  font-style: italic;
+}
+
+.def b {
+  font-style: normal;
+}
+
+.text {
+  position: absolute;
+  top:100px;
+  left:100px;
+  line-height: 150%;
+  color: #000E41;
+}
+
+#def_commensale {
+  position: absolute;
+  top: 66px;
+  left: calc(100% + 20px);
+}
+
+#def_obligatoire {
+  margin-top: 25px;
+}
+
+#def_abondance {
+  margin-top: 25px;
+}
+
+#def_distribution {
+  margin-top: 25px;
+}
+
+#def_phytosanitaires {
+  width: 250px;
+  position: absolute;
+  top: 380px;
+  right: calc(100%);
+}
+
+#def_antropocène {
+  margin-top: 50px;
+}
+
+#suite {
+  height: fit-content;
+  top: 765px;
+  left: 631px;
+}
+
+#suite2 {
+  top: 916px;
+  left: 3016px;
+}
+
+#suite3 {
+  top: 2317px;
+  left: 4248px;
+}
+
+#suite4 {
+  top: 3633px;
+  left: 3501px;
+}
+
+#suite5 {
+  top: 3303px;
+  left: 4588px;
+}
+
+#suite6 {
+  top: 3922px;
+  left: 1427px;
+}
+
+#suite7 {
+  top: 2427px;
+  left: 602px;
+}
+
+#suite-third {
+  position: absolute;
+  top: 3926px;
+  left: 2091px;
+}
+
+#remerciement {
+  position: absolute;
+  top: 4500px;
+  left: 1000px;
+  width: 500px;
+}
+
+#annexes {
+  position: relative;
+  top: 2577px;
+  left: 4000px;
+  width: 500px;
+  display: block;
+}
+
+#bibliographie {
+  position: relative;
+  top: 2608px;
+  left: 4000px;
+  width: 700px;
+  display: block;
+}
+
+/*sidebar*/
+
+.sidenav {
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 5px;
+  left: 87%;
+  background: none;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  color: #000E41;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #0026af;
+}
+
+.sous {
+  display: none;
+}
+
+.deroulant:hover .sous{
+  display: contents;
+}
+
+.deroulant{
+  list-style: none;
+}

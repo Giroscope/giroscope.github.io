@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 116">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #305da8;
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-family: SofiaSans-Bold, 'Sofia Sans';
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-11, .cls-14, .cls-15 {
+        font-size: 20px;
+      }
+
+      .cls-9, .cls-14, .cls-16 {
+        fill: #f4eb73;
+      }
+
+      .cls-9, .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        fill: #5b8a2f;
+      }
+
+      .cls-10 {
+        fill: #97b7e1;
+      }
+
+      .cls-10, .cls-12, .cls-13 {
+        font-size: 12px;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        fill: #305da8;
+      }
+
+      .cls-11, .cls-15, .cls-26 {
+        fill: #f8ab21;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #063;
+      }
+
+      .cls-3, .cls-6 {
+        stroke: #5b8a2f;
+      }
+
+      .cls-12 {
+        fill: #b4d27e;
+      }
+
+      .cls-13 {
+        fill: #64ba8c;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: .02em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        fill: #fdd444;
+      }
+
+      .cls-33 {
+        fill: #063;
+      }
+    </style>
+  </defs>
+  <line class="cls-4" x1="199.51" y1="76.88" x2="199.51" y2="29.97"/>
+  <path class="cls-26" d="m545.1,103.41H34.4c-2.52,0-4.56-2.04-4.56-4.56v-21.16c0-2.52,2.04-4.56,4.56-4.56h510.7c.95,0,1.87.3,2.65.85l14.86,10.58c2.56,1.82,2.56,5.62,0,7.44l-14.86,10.58c-.77.55-1.7.85-2.65.85Z"/>
+  <rect class="cls-32" x="171.36" y="73.12" width="234.71" height="30.29"/>
+  <path class="cls-16" d="m33.69,73.12h137.67v30.29H33.69c-2.13,0-3.85-1.73-3.85-3.85v-22.58c0-2.13,1.73-3.85,3.85-3.85Z"/>
+  <line class="cls-6" x1="169.09" y1="79.57" x2="169.09" y2="61.28"/>
+  <rect class="cls-19" x="96.95" y="40.79" width="152" height="23.1" rx="11.55" ry="11.55"/>
+  <rect class="cls-25" x="141.72" y="9.81" width="100.77" height="23.1" rx="11.55" ry="11.55"/>
+  <rect class="cls-33" x="303.25" y="46.61" width="154.38" height="23.1" rx="11.55" ry="11.55"/>
+  <text class="cls-12" transform="translate(106.66 56.13)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-12" transform="translate(112.42 52.13) scale(.58)"><tspan x="0" y="0">e</tspan><tspan class="cls-23" x="6.36" y="0">r</tspan><tspan class="cls-8" x="10.67" y="0">e</tspan></text>
+  <text class="cls-12" transform="translate(122.34 56.13)"><tspan x="0" y="0"> </tspan><tspan class="cls-27" x="2.44" y="0">r</tspan><tspan class="cls-24" x="6.74" y="0">é</tspan><tspan class="cls-17" x="13" y="0">v</tspan><tspan class="cls-31" x="19.03" y="0">oluti</tspan><tspan class="cls-29" x="42.72" y="0">o</tspan><tspan x="49.22" y="0">n indu</tspan><tspan class="cls-7" x="81.12" y="0">s</tspan><tspan class="cls-20" x="86.78" y="0">trielle</tspan></text>
+  <line class="cls-2" x1="403.3" y1="80.7" x2="403.3" y2="61.28"/>
+  <text class="cls-13" transform="translate(312.28 62.66)"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-13" transform="translate(318.89 58.67) scale(.58)"><tspan x="0" y="0">eme </tspan></text>
+  <text class="cls-13" transform="translate(333.6 62.66)"><tspan class="cls-27" x="0" y="0">r</tspan><tspan class="cls-24" x="4.31" y="0">é</tspan><tspan class="cls-17" x="10.56" y="0">v</tspan><tspan x="16.6" y="0">oluti</tspan><tspan class="cls-29" x="40.28" y="0">o</tspan><tspan x="46.79" y="0">n indu</tspan><tspan class="cls-30" x="78.68" y="0">s</tspan><tspan x="84.35" y="0">trielle</tspan></text>
+  <polyline class="cls-1" points="158.1 75.14 545.93 75.14 561.76 86.43"/>
+  <text class="cls-10" transform="translate(152.18 25.1)"><tspan x="0" y="0">l&apos;a</tspan><tspan class="cls-21" x="11.47" y="0">n</tspan><tspan x="18.25" y="0">th</tspan><tspan class="cls-27" x="29.7" y="0">r</tspan><tspan class="cls-29" x="34.01" y="0">o</tspan><tspan x="40.51" y="0">po</tspan><tspan class="cls-22" x="53.52" y="0">c</tspan><tspan class="cls-20" x="59.79" y="0">ène </tspan></text>
+  <line class="cls-3" x1="158.14" y1="79.57" x2="319.92" y2="79.57"/>
+  <line class="cls-5" x1="417.78" y1="79.57" x2="321.28" y2="79.57"/>
+  <g>
+    <text class="cls-14" transform="translate(464.13 95.5)"><tspan class="cls-28" x="0" y="0">X</tspan><tspan class="cls-18" x="11.9" y="0">X</tspan></text>
+    <text class="cls-9" transform="translate(487.57 88.84) scale(.58)"><tspan x="0" y="0">eme</tspan></text>
+  </g>
+  <g>
+    <text class="cls-11" transform="translate(274.31 95.52)"><tspan class="cls-28" x="0" y="0">X</tspan><tspan class="cls-18" x="11.9" y="0">X</tspan></text>
+    <text class="cls-15" transform="translate(297.75 88.86) scale(.58)"><tspan x="0" y="0">eme</tspan></text>
+  </g>
+  <g>
+    <text class="cls-11" transform="translate(84.49 95.52)"><tspan class="cls-28" x="0" y="0">X</tspan><tspan class="cls-18" x="11.9" y="0">X</tspan></text>
+    <text class="cls-15" transform="translate(107.93 88.86) scale(.58)"><tspan x="0" y="0">eme</tspan></text>
+  </g>
+</svg>
